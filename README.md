@@ -19,6 +19,8 @@
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
 
+---
+
 # 👋 Hello there!
 
 I'm a Grade 8 student from Pingyin County Experimental High School. Feel free to check out my websites:
