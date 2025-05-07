@@ -1,4 +1,4 @@
-# 大家好！
+# 👋 大家好！
 
 我是来自平阴县实验高中的一名初二学生，欢迎访问我的网站：
 
@@ -10,8 +10,31 @@
 
 我对计算机科学和生物学充满兴趣，擅长算法设计和网站开发，是本地为数不多的 OIer 之一。
 
-![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)
+我的洛谷数据：
 
-![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+
+
+# 👋 Hello there!
+
+I'm a Grade 8 student from Pingyin County Experimental High School. Feel free to check out my websites:
+
+[Homepage](http://home.linmohan.fun/)
+
+[Navigation Page](https://map.linmohan.fun/)
+
+[Blog](https://linmohan.fun/)
+
+I'm passionate about computer science and biology, with a focus on algorithm design and web development. I'm also one of the few OIers (Olympiad in Informatics participants) in my area.
+
+My Luogu stats:
+
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
