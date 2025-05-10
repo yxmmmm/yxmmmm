@@ -18,5 +18,5 @@
 
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/apiLINMOHanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH)](https://github.com/anuraghazra/github-readme-stats)
 
