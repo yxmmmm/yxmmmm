@@ -18,25 +18,5 @@
 
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?LINMOH=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-# 👋 Hello there!
-
-I'm a Grade 8 student from Pingyin County Experimental High School. Feel free to check out my websites:
-
-[Homepage](http://home.linmohan.fun/)
-
-[Navigation Page](https://map.linmohan.fun/)
-
-[Blog](https://linmohan.fun/)
-
-I'm passionate about computer science and biology, with a focus on algorithm design and web development. I'm also one of the few OIers (Olympiad in Informatics participants) in my area.
-
-My Luogu stats:
-
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
-
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
-
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
