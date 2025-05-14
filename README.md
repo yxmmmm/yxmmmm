@@ -1,5 +1,7 @@
 # 👋 大家好！
 
+你是第![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg)个访问我的主页的人！
+
 我是来自平阴县实验高中的一名初二学生，欢迎访问我的网站：
 
 [个人主页](http://home.linmohan.fun/)
@@ -22,6 +24,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
 
-![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg)
 
 </div>
