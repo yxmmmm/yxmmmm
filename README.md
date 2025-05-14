@@ -26,6 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=LINMOH&theme=radical&locale=cn)
 
 
 </div>
