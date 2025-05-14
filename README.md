@@ -16,6 +16,6 @@
 
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,14,0,4,20&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+[![洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=253620&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/253620)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
