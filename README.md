@@ -22,4 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
 
+![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg)
+
 </div>
