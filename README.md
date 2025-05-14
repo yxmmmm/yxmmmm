@@ -24,5 +24,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
+
+
 
 </div>
