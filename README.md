@@ -1,18 +1,18 @@
 # 👋 大家好！
 
-你是第![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg)个访问我的主页的人！
+你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 个访问我的主页的人！
 
-我是来自平阴县实验高中的一名初二学生，欢迎访问我的网站：
+我是来自 **平阴县实验高中的初二学生**，欢迎访问我的网站：
 
-[个人主页](http://home.linmohan.fun/)
+- 🌐 [个人主页](http://home.linmohan.fun/)
+- 🗺️ [个人导航页](https://map.linmohan.fun/)
+- ✍️ [博客](https://linmohan.fun/)
 
-[个人导航页](https://map.linmohan.fun/)
+我对 **计算机科学** 和 **生物学** 充满兴趣，擅长 **算法设计** 和 **网站开发**，是本地为数不多的 OIer 之一。
 
-[博客](https://linmohan.fun/)
+---
 
-我对计算机科学和生物学充满兴趣，擅长算法设计和网站开发，是本地为数不多的 OIer 之一。
-
-我的洛谷数据：
+## 📊 我的洛谷数据
 
 <div align="center">
 
@@ -20,15 +20,13 @@
 
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+[![洛谷估值卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
 
 </div>
-
----
 
 ---
 
@@ -56,4 +54,3 @@
 > **우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!** *(Korean)*  
 
 </div>
-
