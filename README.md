@@ -40,19 +40,19 @@
 
 ### 我们支持巴勒斯坦人民，我们来自中国！
 
-> **We support the Palestinian people. We are from China!**
+### We support the Palestinian people. We are from China!
 
 > **نحن ندعم الشعب الفلسطيني. نحن من الصين!** *(Arabic)*  
 > **ما از مردم فلسطین حمایت می‌کنیم. ما اهل چین هستیم!** *(Persian)*  
 > **אנחנו תומכים בעם הפלסטיני. אנחנו מסין!** *(Hebrew)*  
 > **Em piştgiriya gelê Filistînê dikin. Em ji Çînê ne!** *(Kurdish)*  
-> **Filistin halkını destekliyoruz. Biz Çinliyiz!** *(Turkish)*  
-
+> **Filistin halkını destekliyoruz. Biz Çinliyiz!** *(Turkish)*
+> 
+> **私たちはパレスチナの人々を支持します。私たちは中国から来ました！** *(Japanese)*  
+> **우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!** *(Korean)*  
 > **Nous soutenons le peuple palestinien. Nous venons de Chine !** *(French)*  
 > **Apoyamos al pueblo palestino. ¡Somos de China!** *(Spanish)*  
 > **Мы поддерживаем палестинский народ. Мы из Китая!** *(Russian)*  
 > **Wir unterstützen das palästinensische Volk. Wir kommen aus China!** *(German)*  
-> **私たちはパレスチナの人々を支持します。私たちは中国から来ました！** *(Japanese)*  
-> **우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!** *(Korean)*  
 
 </div>
