@@ -32,38 +32,28 @@
 
 ---
 
+## ✊ 声援巴勒斯坦
+
 <div align="center">
 
-[![Flag of Palestine.svg](https://s1.imagehub.cc/images/2025/05/15/aacca4258c51a1ac1b6c899ce4b37b69.png)](https://www.imagehub.cc/image/Flag-of-Palestine.svg.IPCsCR)
+[![Flag of Palestine](https://s1.imagehub.cc/images/2025/05/15/aacca4258c51a1ac1b6c899ce4b37b69.png)](https://www.imagehub.cc/image/Flag-of-Palestine.svg.IPCsCR)
 
-我们支持巴勒斯坦人民，我们来自中国！
+### 我们支持巴勒斯坦人民，我们来自中国！
 
-We support the Palestinian people. We are from China!
+> **We support the Palestinian people. We are from China!**
 
-אנחנו תומכים בעם הפלסטיני. אנחנו מסין!
+> **نحن ندعم الشعب الفلسطيني. نحن من الصين!** *(Arabic)*  
+> **ما از مردم فلسطین حمایت می‌کنیم. ما اهل چین هستیم!** *(Persian)*  
+> **אנחנו תומכים בעם הפלסטיני. אנחנו מסין!** *(Hebrew)*  
+> **Em piştgiriya gelê Filistînê dikin. Em ji Çînê ne!** *(Kurdish)*  
+> **Filistin halkını destekliyoruz. Biz Çinliyiz!** *(Turkish)*  
 
-نحن ندعم الشعب الفلسطيني. نحن من الصين!
-
-ما از مردم فلسطین حمایت می‌کنیم. ما اهل چین هستیم!
-
-
-Em piştgiriya gelê Filistînê dikin. Em ji Çînê ne!
-
-Nous soutenons le peuple palestinien. Nous venons de Chine !
-
-Apoyamos al pueblo palestino. ¡Somos de China!
-
-Мы поддерживаем палестинский народ. Мы из Китая!
-
-Wir unterstützen das palästinensische Volk. Wir kommen aus China!
-
-私たちはパレスチナの人々を支持します。私たちは中国から来ました！
-
-우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!
-
-Filistin halkını destekliyoruz. Biz Çinliyiz!
-
-
+> **Nous soutenons le peuple palestinien. Nous venons de Chine !** *(French)*  
+> **Apoyamos al pueblo palestino. ¡Somos de China!** *(Spanish)*  
+> **Мы поддерживаем палестинский народ. Мы из Китая!** *(Russian)*  
+> **Wir unterstützen das palästinensische Volk. Wir kommen aus China!** *(German)*  
+> **私たちはパレスチナの人々を支持します。私たちは中国から来ました！** *(Japanese)*  
+> **우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!** *(Korean)*  
 
 </div>
 
