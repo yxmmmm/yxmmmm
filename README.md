@@ -37,7 +37,6 @@
 ### Free palestine!
 
 [![Flag of Palestine](https://s1.imagehub.cc/images/2025/05/15/aacca4258c51a1ac1b6c899ce4b37b69.png)](https://www.imagehub.cc/image/Flag-of-Palestine.svg.IPCsCR)
-![960px Flag of al Qassam Brigades.svg](https://s1.imagehub.cc/images/2025/05/15/452b88c9ac0b89cabd104a4421e4ba71.png)
 
 ### 我们支持巴勒斯坦人民，我们来自中国！
 
