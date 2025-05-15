@@ -40,7 +40,7 @@
 
 ### 我们支持巴勒斯坦人民，我们来自中国！
 
-### We support the Palestinian people. We are from China!
+### ** We support the Palestinian people. We are from China! **
 
 > **نحن ندعم الشعب الفلسطيني. نحن من الصين!** *(Arabic)*  
 > **ما از مردم فلسطین حمایت می‌کنیم. ما اهل چین هستیم!** *(Persian)*  
