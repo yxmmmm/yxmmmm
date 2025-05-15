@@ -1,3 +1,6 @@
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
+
+
 # 👋 大家好！
 
 你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 个访问我的主页的人！
