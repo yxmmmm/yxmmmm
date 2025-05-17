@@ -75,3 +75,5 @@
 
 * 📧 Email: `beilingyu65@gmail.com`
 * 🐙 GitHub: [@LINMOH](https://github.com/LINMOH)
+
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=66&animation=fadeIn&section=footer)
