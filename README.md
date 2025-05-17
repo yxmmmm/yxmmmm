@@ -70,6 +70,8 @@
 
 ## ✊ <summary>声援巴勒斯坦</summary>
 
+<details>
+
 <div align="center">
 
 ### 🇵🇸 Free Palestine!
@@ -93,6 +95,8 @@
 ### **Wir unterstützen das palästinensische Volk. Wir kommen aus China!** *(German)*  
 
 </div>
+
+</details>
 
 ---
 
