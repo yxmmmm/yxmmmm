@@ -26,14 +26,15 @@
     <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
 
-  <!-- 🗯️ 个人立场 -->
-  <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox" alt="支持巴勒斯坦">
-  <img src="https://img.shields.io/badge/爱我中华-red?logo=freedombox" alt="爱国">
-  <img src="https://img.shields.io/badge/反俄美霸权主义-red?logo=freedombox" alt="反霸权">
-
+  <!-- 🗯️ 立场表达 -->
+  <img src="https://img.shields.io/badge/支持%20巴勒斯坦-立场鲜明-darkred?logo=liberapay&logoColor=white" alt="支持巴勒斯坦">
+  <img src="https://img.shields.io/badge/爱我中华-民族自豪-crimson?logo=redhat&logoColor=white" alt="爱国">
+  <img src="https://img.shields.io/badge/反对霸权-反俄美双标-maroon?logo=gnuprivacyguard&logoColor=white" alt="反霸权主义">
+  
   <!-- 🎯 兴趣 & 性格 -->
-  <img src="https://img.shields.io/badge/喜欢的番-春物-lightblue?logo=tvtime" alt="喜欢的番">
-  <img src="https://img.shields.io/badge/性格-INTJ-purple" alt="INTJ">
+  <img src="https://img.shields.io/badge/喜欢番剧-春物-lightblue?logo=tvtime&logoColor=white" alt="喜欢的番剧">
+  <img src="https://img.shields.io/badge/性格-INTJ-8A2BE2?logo=abstract&logoColor=white" alt="INTJ性格">
+
 
 </p>
 
