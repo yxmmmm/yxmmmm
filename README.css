@@ -1,0 +1,14 @@
+[data-target="animated-image"] > img {
+  transition: transform 0.3s ease;
+}
+
+[data-target="animated-image"]:hover > img {
+  transform: scale(1.05);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    --color-canvas-default: #0d1117 !important;
+    --color-fg-default: #c9d1d9 !important;
+  }
+}
