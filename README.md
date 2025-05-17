@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 500px; margin: auto;">
   <!-- 技术栈 & 开发环境 -->
   <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; line-height: 1.5;">
     <strong style="width: 100%; margin-bottom: 8px;">🎯 技术栈 & 开发环境</strong>
