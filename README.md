@@ -1,33 +1,45 @@
-<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
-
+<div align="center">
+  <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;">
+  </a>
+</div>
 
 # 👋 大家好！
 
 你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 个访问我的主页的人！
 
-我是来自 **平阴县实验高中的初二学生**，欢迎访问我的网站：
-
-- 🌐 [个人主页](http://home.linmohan.fun/)
-- 🗺️ [个人导航页](https://map.linmohan.fun/)
-- ✍️ [博客](https://linmohan.fun/)
-
-我对 **计算机科学** 和 **生物学** 充满兴趣，擅长 **算法设计** 和 **网站开发**，是本地为数不多的 OIer 之一。
+我是林墨瀚，来自 **山东济南平阴县实验高中初二**，热爱 **编程、算法、历史**，是一名 OIer 和技术博客写作者。
 
 ---
 
-## 📊 我的洛谷数据
+## 🌐 我的站点
+
+* [主页](http://home.linmohan.fun/)
+* [导航页](https://map.linmohan.fun/)
+* [博客](https://linmohan.fun/)
+* [洛谷主页](https://www.luogu.com.cn/user/1520652)
+
+---
+
+## 💻 技术方向
+
+* 熟悉：**C++ / Python**
+* 爱好：**算法设计 / 网站开发 / 操作系统 / 近现代史**
+* 平时用 **ArchLinux + KDE**，喜欢折腾服务器和 GitHub Pages
+
+---
+
+## 📊 数据与成长
 
 <div align="center">
 
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652\&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+[![洛谷刷题图](https://api.jerryz.com.cn/practice?id=1520652\&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![洛谷估值卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH\&show_icons=true\&theme=radical\&locale=cn)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH\&layout=compact\&theme=radical\&locale=cn)
 
 </div>
 
@@ -37,7 +49,7 @@
 
 <div align="center">
 
-### Free palestine!
+### 🇵🇸 Free Palestine!
 
 [![Flag of Palestine](https://s1.imagehub.cc/images/2025/05/15/aacca4258c51a1ac1b6c899ce4b37b69.png)](https://www.imagehub.cc/image/Flag-of-Palestine.svg.IPCsCR)
 
@@ -59,3 +71,10 @@
 > **Wir unterstützen das palästinensische Volk. Wir kommen aus China!** *(German)*  
 
 </div>
+
+---
+
+## 📮 联系方式
+
+* 📧 Email: `beilingyu65@gmail.com`
+* 🐙 GitHub: [@LINMOH](https://github.com/LINMOH)
