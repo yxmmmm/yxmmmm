@@ -1,3 +1,30 @@
+<p align="center">
+
+  <!-- GitHub 活跃度徽章 -->
+  <img src="https://img.shields.io/github/followers/LINMOH?label=GitHub关注&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/LINMOH?label=GitHub收藏&style=social" alt="GitHub Stars">
+
+  <!-- CSP 徽章 -->
+  <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
+  <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white" alt="Python">
+
+  <!-- 使用系统徽章 -->
+  <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/KDE-Plasma-blue?logo=kde&logoColor=white" alt="KDE Plasma">
+
+  <!-- 博客 -->
+  <a href="https://linmohan.fun">
+    <img src="https://img.shields.io/badge/博客-LinMohan.fun-green?logo=wordpress" alt="博客">
+  </a>
+
+  <!-- 爱发电 -->
+  <a href="https://afdian.net/a/LinMohan">
+    <img src="https://img.shields.io/badge/爱发电-支持我-orange?logo=buymeacoffee&logoColor=white" alt="爱发电">
+  </a>
+
+</p>
+
 <div align="center">
   
   [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
