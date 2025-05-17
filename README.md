@@ -16,12 +16,12 @@
 
   <!-- 洛谷 -->
   <a href="https://www.luogu.com.cn/user/1520652">
-    <img src="https://img.shields.io/badge/洛谷-Luogu-blueviolet?logo=leetcode&logoColor=white" alt="Luogu">
+    <img src="https://img.shields.io/badge/洛谷-Luogu-blueviolet?logo=leetcode&logoColor=white" alt="LINMOHAN">
   </a>
 
   <!-- Bilibili -->
   <a href="https://space.bilibili.com/2126856300">
-    <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
+    <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Overflow_Error">
   </a>
   
 </p>
