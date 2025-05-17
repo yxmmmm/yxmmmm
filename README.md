@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
+  [![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&desc=𝙁𝙧𝙤𝙢%20𝙎𝙝𝙖𝙣𝙙𝙤𝙣𝙜&fontAlignY=39)](linmohan.fun)
 
   ## 用代码构建更美好的数字世界
   
