@@ -70,9 +70,9 @@
 
 <details>
   
-## ❤️ 声援巴勒斯坦（点击展开）
+## <summary> ❤️ 声援巴勒斯坦（点击展开）</summary>
   
-  <summary>✊ 我支持巴勒斯坦</summary>
+  ✊ 我支持巴勒斯坦
   
   <div align="center">
   
