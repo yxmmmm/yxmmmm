@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white">
-    <img src="https://img.shields.io/badge/KDE-Plasma-desktop-blue?logo=linux&logoColor=white">
   </p>
   
   <!-- 阅读爱好 & 性格 -->
