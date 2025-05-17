@@ -31,6 +31,11 @@
   </a>
 
   <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox">
+  <img src="https://img.shields.io/badge/爱我中华-red?logo=freedombox">
+  <img src="https://img.shields.io/badge/反俄美霸权主义-red?logo=freedombox">
+  <img src="https://img.shields.io/badge/喜欢的番-春物-lightblue?logo=tvtime">
+  <img src="https://img.shields.io/badge/性格-INTJ-purple">
+
 
   
 </p>
