@@ -1,14 +1,12 @@
-<div align="center">
-  <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;">
-  </a>
-</div>
+[![](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=44&animation=fadeIn)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 # 👋 大家好！
 
 你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 个访问我的主页的人！
 
 我是林墨瀚，来自 **山东济南平阴县实验高中初二**，热爱 **编程、算法、历史**，是一名 OIer 和技术博客写作者。
+
+![](https://api.xecades.xyz/api?date=2025-09-20&str=CSP-J+%E5%88%9D%E8%B5%9B&img=2&bilibili=2126856300&github=LINMOH&email=linmhwork%40outlook.com&luogu=1520652&site=linmohan.fun&qq=2113836986&quote=%E6%88%91%E6%83%B3%E6%8B%BF+CSP-S+%E7%9C%81%E4%B8%80%EF%BC%81)
 
 ---
 
