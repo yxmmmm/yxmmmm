@@ -27,7 +27,7 @@
   </a>
 
   <!-- 🗯️ 立场表达 -->
-  <img src="https://img.shields.io/badge/支持%20巴勒斯坦-立场鲜明-darkred?logo=liberapay&logoColor=white" alt="支持巴勒斯坦">
+  <img src="https://img.shields.io/badge/支持-巴勒斯坦-darkred?logo=liberapay&logoColor=white" alt="支持巴勒斯坦">
   <img src="https://img.shields.io/badge/爱我中华-民族自豪-crimson?logo=redhat&logoColor=white" alt="爱国">
   <img src="https://img.shields.io/badge/反对霸权-反俄美双标-maroon?logo=gnuprivacyguard&logoColor=white" alt="反霸权主义">
   
