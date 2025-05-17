@@ -1,3 +1,18 @@
+<div align="center">
+  
+  [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
+  
+  🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+
+</div>
+
+---
+
+## 🧑‍💻 关于我
+
+大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
+我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
+
 <div align="center" style="max-width: 600px; margin: auto;">
   <!-- 技术栈 & 开发环境 -->
   <div style="width: 100%; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
@@ -59,31 +74,6 @@
     </a>
   </div>
 </div>
-
-
-
-
-
-
-
-<div align="center">
-  
-  [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
-  
-  🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
-
-</div>
-
----
-
-## 🧑‍💻 关于我
-
-大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
-我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
-
-- 热爱：**算法竞赛**、**网站开发**、**近现代史**
-- 环境：**Arch Linux** + **KDE**
-- **“我想拿 CSP-S 省一！”**
 
 ---
 
