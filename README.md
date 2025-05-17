@@ -1,128 +1,171 @@
+<div align="center">
+  
+  [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
+
+  ## 用代码构建更美好的数字世界
+  
+  🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+
+</div>
+
+---
+
+## 🧑‍💻 关于我
+
+大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
+我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
+
+<div align="center" style="max-width: 600px; margin: auto;">
+  <!-- 技术栈 & 开发环境 -->
+  <div style="width: 100%; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🎯 技术栈 & 开发环境
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
+    <img src="https://img.shields.io/badge/算法竞赛-进行中-orange?logo=codeforces&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-略懂-orange?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-略懂-skyblue?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white">
+  </div>
+
+  <!-- 阅读爱好 & 性格 -->
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    📖 兴趣
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
+    <img src="https://img.shields.io/badge/书籍-挪威的森林-20b2aa?logo=bookstack&logoColor=white">
+    <img src="https://img.shields.io/badge/喜欢的台词-個性捨てたら死んでるのと一緒だよ-red?logo=quote&logoColor=white">
+    <img src="https://img.shields.io/badge/性格-INTJ-purple?logo=abstract&logoColor=white">
+    <img src="https://img.shields.io/badge/身份-初中生程序员-brightgreen?logo=github">
+    <img src="https://img.shields.io/badge/喜欢的番-春物-lightblue?logo=tvtime" alt="喜欢的番">
+    <img src="https://img.shields.io/badge/游戏-死亡搁浅-000000?logo=playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/游戏-FarCry5-darkblue?logo=xbox&logoColor=white">
+    <a href="https://steamcommunity.com/profiles/76561199507472379/" target="_blank">
+      <img src="https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white" alt="Steam 主页">
+    </a>
+  </div>
+
+  <!-- 个人立场 -->
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🗯️ 个人立场
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox" alt="支持巴勒斯坦">
+    <img src="https://img.shields.io/badge/爱我中华-red?logo=freedombox" alt="爱国">
+    <img src="https://img.shields.io/badge/反俄美霸权主义-red?logo=freedombox" alt="反霸权">
+  </div>
+
+  <!-- 平台 & 主页 -->
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🌐 个人平台
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <a href="https://linmohan.fun" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/博客-LinMohan.fun-28a745?logo=wordpress&logoColor=white" alt="博客">
+    </a>
+    <a href="https://www.luogu.com.cn/user/1520652" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/洛谷-Luogu-7e57c2?logo=leetcode&logoColor=white" alt="洛谷主页">
+    </a>
+    <a href="https://space.bilibili.com/2126856300" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/B站-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
+    </a>
+  </div>
+</div>
+
+---
+
+## 🧠 技术栈 & 爱好方向
 
 <div align="center">
   
-  <!-- 动态渐变标题 -->
-  [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:DB7093&height=280&section=header&text=𝙇𝙄𝙉𝙈𝙊𝙃𝘼𝙉'𝙨%20𝙋𝙧𝙤𝙛𝙞𝙡𝙚&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=𝙁𝙧𝙤𝙢%20𝙎𝙝𝙖𝙣𝙙𝙤𝙣𝙜%20𝙬𝙞𝙩𝙝%20💻&descSize=20&descAlignY=70)](https://linmohan.fun)
-
-  <!-- 实时访客统计 -->
-  <img src="https://komarev.com/ghpvc/?username=LINMOH&color=db7093&style=flat-square" alt="Profile Views"/> 
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LINMOH.LINMOH)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,linux,arch,wordpress,nodejs&theme=light)](https://skillicons.dev)
 
 </div>
 
+- 主力语言：`C++`、`Python`
+- 兴趣方向：算法设计 / Web 前端 / Linux 运维
+- 正在备战：**CSP-J 2025 初赛**
+
 ---
 
-## 🎯 核心领域
+## 🌐 我的站点
+
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,py,linux,html,css,js,md,git,wordpress&theme=dark)](https://skillicons.dev)
+  - 🏠 [主页](http://home.linmohan.fun/)
+  - 🧭 [导航页](https://map.linmohan.fun/)
+  - 📚 [博客](https://linmohan.fun/)
+  - 💻 [洛谷主页](https://www.luogu.com.cn/user/1520652)
 
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&hide_border=true&locale=cn" alt="Top Languages">
 </div>
 
 ---
 
-## 🚀 技术历程
-
-```text
-C++            ███████████████████░░░░░   85% 
-Python         ████████████░░░░░░░░░░░░   60%
-算法竞赛       ██████████████████░░░░░░   90%
-Linux 运维     ███████████░░░░░░░░░░░░░   55%
-Web 开发       ████████░░░░░░░░░░░░░░░░   40%
-```
-
----
-
-## 🌟 多维展示
-
-<details open>
-<summary><b>📜 个人信息</b></summary>
-
-```yaml
-姓名: 林墨瀚
-定位: 初中生开发者 | OIer
-坐标: 山东济南平阴县实验中学
-学历: 初二在读
-MBTI: INTJ-T
-编程年龄: 3年
-当前目标: CSP-J 2025 一等奖
-开发环境: Arch Linux + NeoVim
-```
-
-</details>
+## 📈 成长数据一览
 
 <details>
-<summary><b>📚 学习轨迹</b></summary>
+<summary>📊 点击展开查看刷题数据与 GitHub 活跃度</summary>
+
+<br>
 
 <div align="center">
 
-[![洛谷成长曲线](https://luogu.vercel.app/1520652/practice?id=1520652&darkMode=true)](https://www.luogu.com.cn/user/1520652)
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)  
+[![洛谷刷题图](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
 
 </div>
+
 </details>
+
+---
+
+## ✊ 声援巴勒斯坦（点击展开）
 
 <details>
-<summary><b>🎮 游戏人生</b></summary>
-
-```text
-🎮 近期游玩
-├── 死亡搁浅导演版       █████░░░░░░ 45%
-├── 赛博朋克2077        ████░░░░░░░ 40%
-└── 荒野大镖客2         ███████░░░░ 70%
-
-🏆 游戏成就
-├── Steam 总时长: 876 小时
-├── 全成就游戏: 3 款
-└── 最贵游戏: 赛博朋克2077 💰298
-```
-
-</details>
-
----
-
-## 🌐 数字足迹
-
-<div align="center">
-
-[![博客](https://img.shields.io/badge/𝙱𝚎𝚔𝚢𝚕𝚕_𝙱𝚕𝚘𝚐-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://linmohan.fun)
-[![洛谷](https://img.shields.io/badge/𝙻𝚞𝚘𝙶𝚞-7e57c2?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.luogu.com.cn/user/1520652)
-[![哔哩哔哩](https://img.shields.io/badge/𝙱𝚒𝚕𝚒𝚋𝚒𝚕𝚒-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/2126856300)
-[![Steam](https://img.shields.io/badge/𝚂𝚝𝚎𝚊𝚖-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199507472379/)
-
-</div>
-
----
-
-## 📊 数据看板
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LINMOH&theme=radical&hide_border=true&locale=cn)](https://git.io/streak-stats)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LINMOH&theme=radical&hide_border=true&layout=compact&locale=cn)](https://wakatime.com/@LINMOH)
-
-</div>
-
----
-
-## 🌍 世界公民
-
-```diff
-+ 坚定支持巴勒斯坦人民的合法权益
-+ 反对任何形式的霸权主义
-! 用代码构建更美好的数字世界
-# 「个性捨てたら死んでるのと一緒だよ」- 比企谷八幡
-```
-
----
-
-<div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
+  <summary>✊ 我支持巴勒斯坦</summary>
+  
+  <div align="center">
+  
+  [![Flag of Palestine](https://s1.imagehub.cc/images/2025/05/15/aacca4258c51a1ac1b6c899ce4b37b69.png)](https://www.imagehub.cc/image/Flag-of-Palestine.svg.IPCsCR)
+  
+  ### 我们支持巴勒斯坦人民，我们来自中国！
+  
+  ### We support the Palestinian people. We are from China!
+  
+  ### **نحن ندعم الشعب الفلسطيني. نحن من الصين!** *(Arabic)*  
+  ### **ما از مردم فلسطین حمایت می‌کنیم. ما اهل چین هستیم!** *(Persian)*  
+  ### **אנחנו תומכים בעם הפלסטיני. אנחנו מסין!** *(Hebrew)*  
+  ### **Em piştgiriya gelê Filistînê dikin. Em ji Çînê ne!** *(Kurdish)*  
+  ### **Filistin halkını destekliyoruz. Biz Çinliyiz!** *(Turkish)* 
+  ### **私たちはパレスチナの人々を支持します。私たちは中国から来ました！** *(Japanese)*  
+  ### **우리는 팔레스타인 국민을 지지합니다. 우리는 중국에서 왔습니다!** *(Korean)*  
+  ### **Nous soutenons le peuple palestinien. Nous venons de Chine !** *(French)*  
+  ### **Apoyamos al pueblo palestino. ¡Somos de China!** *(Spanish)*  
+  ### **Мы поддерживаем палестинский народ. Мы из Китая!** *(Russian)*  
+  ### **Wir unterstützen das palästinensische Volk. Wir kommen aus China!** *(German)*  
+  
+  </div>
+
+</details>
+
+---
+
+## 📮 联系方式
+
+* 📧 Email: `beilingyu65@gmail.com`
+* 🐙 GitHub: [@LINMOH](https://github.com/LINMOH)
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=66&animation=fadeIn&section=footer)
 
 </div>
-```
-
