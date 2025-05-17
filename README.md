@@ -2,8 +2,14 @@
 
   <!-- CSP 徽章 -->
   <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
-  <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white" alt="Python">
+  
+  <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-略懂-orange?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-略懂-skyblue?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white">
 
   <!-- 使用系统徽章 -->
   <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white" alt="Arch Linux">
