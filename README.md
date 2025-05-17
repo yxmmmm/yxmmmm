@@ -29,6 +29,9 @@
   <a href="https://space.bilibili.com/2126856300">
     <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Overflow_Error">
   </a>
+
+  <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox">
+
   
 </p>
 
