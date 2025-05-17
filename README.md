@@ -1,29 +1,32 @@
-[![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
-
 <div align="center">
+  [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
 
-# 我是 LINMOHAN
-
-🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+  # 我是 LINMOHAN
+  
+  🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
 
 </div>
 
 ---
 
-## 🧑‍💻 关于我
+## 关于我
 
-大家好！我是 **林墨瀚**，来自 **山东济南平阴县实验高中 初二**。  
-我是一名热爱编程的 OIer，也是一名喜欢写博客的学生。
+大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
+我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
 
-> 热爱：算法竞赛、网站开发、近现代史  
-> 环境：Arch Linux + KDE  
-> 座右铭：**“我想拿 CSP-S 省一！”**
+> 热爱：**算法竞赛**、**网站开发**、**近现代史**
+> 环境：**Arch Linux** + **KDE**
+> **“我想拿 CSP-S 省一！”**
 
 ---
 
-## 🧠 技术栈 & 爱好方向
+## 技术栈 & 爱好方向
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,linux,arch,wordpress,nodejs&theme=light)](https://skillicons.dev)
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,linux,arch,wordpress,nodejs&theme=light)](https://skillicons.dev)
+
+</div>
 
 - 主力语言：`C++`、`Python`
 - 兴趣方向：算法设计 / Web 前端 / Linux 运维
@@ -33,10 +36,14 @@
 
 ## 🌐 我的站点
 
-- 🏠 [主页](http://home.linmohan.fun/)
-- 🧭 [导航页](https://map.linmohan.fun/)
-- 📚 [博客](https://linmohan.fun/)
-- 💻 [洛谷主页](https://www.luogu.com.cn/user/1520652)
+<div align="center">
+
+  - 🏠 [主页](http://home.linmohan.fun/)
+  - 🧭 [导航页](https://map.linmohan.fun/)
+  - 📚 [博客](https://linmohan.fun/)
+  - 💻 [洛谷主页](https://www.luogu.com.cn/user/1520652)
+
+</div>
 
 ---
 
