@@ -165,6 +165,12 @@
 * 🐙 GitHub: [@LINMOH](https://github.com/LINMOH)
 
 <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=66&animation=fadeIn&section=footer)
 
