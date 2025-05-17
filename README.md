@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=44&animation=fadeIn)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=44&animation=fadeIn)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 # 👋 大家好！
 
