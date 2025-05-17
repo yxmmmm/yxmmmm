@@ -16,7 +16,6 @@
   <!-- 阅读爱好 & 性格 -->
   <p>
     <strong>📖 阅读 & 兴趣</strong><br>
-    <img src="https://img.shields.io/badge/性格-INTJ-purple?logo=abstract&logoColor=white" alt="INTJ">
     <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
     <img src="https://img.shields.io/badge/书籍-挪威的森林-20b2aa?logo=bookstack&logoColor=white">
     <img src="https://img.shields.io/badge/喜欢的台词-個性捨てたら死んでるのと一緒だよ-red?logo=quote&logoColor=white">
@@ -48,8 +47,13 @@
   
   <!-- 兴趣爱好 -->
   <p>
-    <strong>🎬 喜欢的番剧 & 兴趣</strong><br>
+    <strong>🎬 兴趣</strong><br>
     <img src="https://img.shields.io/badge/喜欢的番-春物-lightblue?logo=tvtime" alt="喜欢的番">
+    <img src="https://img.shields.io/badge/游戏-死亡搁浅-000000?logo=playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/游戏-FarCry5-darkblue?logo=xbox&logoColor=white">
+    <a href="https://steamcommunity.com/profiles/76561199507472379/" target="_blank">
+      <img src="https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white" alt="Steam 主页">
+    </a>
   </p>
 
 </div>
