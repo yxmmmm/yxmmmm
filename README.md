@@ -1,7 +1,9 @@
-<div align="center" style="max-width: 500px; margin: auto;">
+<div align="center" style="max-width: 600px; margin: auto;">
   <!-- 技术栈 & 开发环境 -->
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; line-height: 1.5;">
-    <strong style="width: 100%; margin-bottom: 8px;">🎯 技术栈 & 开发环境</strong>
+  <div style="width: 100%; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🎯 技术栈 & 开发环境
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
     <img src="https://img.shields.io/badge/算法竞赛-进行中-orange?logo=codeforces&logoColor=white">
     <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white">
@@ -11,11 +13,13 @@
     <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white">
-  </p>
+  </div>
 
   <!-- 阅读爱好 & 性格 -->
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; line-height: 1.5;">
-    <strong style="width: 100%; margin-bottom: 8px;">📖 兴趣</strong>
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    📖 兴趣
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
     <img src="https://img.shields.io/badge/书籍-挪威的森林-20b2aa?logo=bookstack&logoColor=white">
     <img src="https://img.shields.io/badge/喜欢的台词-個性捨てたら死んでるのと一緒だよ-red?logo=quote&logoColor=white">
@@ -27,19 +31,23 @@
     <a href="https://steamcommunity.com/profiles/76561199507472379/" target="_blank">
       <img src="https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white" alt="Steam 主页">
     </a>
-  </p>
+  </div>
 
   <!-- 个人立场 -->
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; line-height: 1.5;">
-    <strong style="width: 100%; margin-bottom: 8px;">🗯️ 个人立场</strong>
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🗯️ 个人立场
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox" alt="支持巴勒斯坦">
     <img src="https://img.shields.io/badge/爱我中华-red?logo=freedombox" alt="爱国">
     <img src="https://img.shields.io/badge/反俄美霸权主义-red?logo=freedombox" alt="反霸权">
-  </p>
+  </div>
 
   <!-- 平台 & 主页 -->
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; line-height: 1.5;">
-    <strong style="width: 100%; margin-bottom: 8px;">🌐 个人平台</strong>
+  <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
+    🌐 个人平台
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <a href="https://linmohan.fun" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/博客-LinMohan.fun-28a745?logo=wordpress&logoColor=white" alt="博客">
     </a>
@@ -49,8 +57,9 @@
     <a href="https://space.bilibili.com/2126856300" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/B站-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
     </a>
-  </p>
+  </div>
 </div>
+
 
 
 
