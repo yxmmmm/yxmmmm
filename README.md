@@ -2,8 +2,9 @@
 
 <div align="center">
 
-🎉 欢迎来到我的主页！你是第  
-![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+# 我是 LINMOHAN
+
+🎉 欢迎来到我的主页！你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
 
 </div>
 
