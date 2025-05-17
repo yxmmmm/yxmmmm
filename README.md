@@ -13,6 +13,25 @@
   <a href="https://linmohan.fun">
     <img src="https://img.shields.io/badge/博客-LinMohan.fun-green?logo=wordpress" alt="博客">
   </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/LINMOH">
+    <img src="https://img.shields.io/github/followers/LINMOH?label=GitHub关注&style=social" alt="GitHub Followers">
+  </a>
+  
+  <a href="https://github.com/LINMOH">
+    <img src="https://img.shields.io/github/stars/LINMOH?label=GitHub收藏&style=social" alt="GitHub Stars">
+  </a>
+
+  <!-- 洛谷 -->
+  <a href="https://www.luogu.com.cn/user/1520652">
+    <img src="https://img.shields.io/badge/洛谷-Luogu-blueviolet?logo=leetcode&logoColor=white" alt="Luogu">
+  </a>
+
+  <!-- Bilibili -->
+  <a href="https://space.bilibili.com/2126856300">
+    <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
+  </a>
   
 </p>
 
