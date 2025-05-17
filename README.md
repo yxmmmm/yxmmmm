@@ -68,9 +68,9 @@
 
 ---
 
-<details>
+## ✊ 声援巴勒斯坦
 
-## ✊ <summary>声援巴勒斯坦</summary>
+<details>
 
 <div align="center">
 
