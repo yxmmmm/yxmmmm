@@ -6,9 +6,6 @@
 
 我是林墨瀚，来自 **山东济南平阴县实验高中初二**，热爱 **编程、算法、历史**，是一名 OIer 和技术博客写作者。
 
-
-![](https://api.xecades.xyz/api?str=CSP-J+%E5%88%9D%E8%B5%9B&date=2025-09-20&quote=%E6%88%91%E6%83%B3%E6%8B%BF+CSP-S+%E7%9C%81%E4%B8%80%EF%BC%81&bilibili=2126856300&github=LINMOH&email=linmhwork%40outlook.com&luogu=1520652&site=linmohan.fun&qq=2113836986&color=255%2C255%2C255%2C1&bg=5%2C0%2C0%2C0)
-
 ![](https://api.xecades.xyz/api?str=CSP-J+%E5%88%9D%E8%B5%9B&date=2025-09-20&quote=%E6%88%91%E6%83%B3%E6%8B%BF+CSP-S+%E7%9C%81%E4%B8%80%EF%BC%81&bilibili=2126856300&github=LINMOH&email=linmhwork%40outlook.com&luogu=1520652&site=linmohan.fun&qq=2113836986&color=255%2C255%2C255%2C1&bg=0%2C0%2C0%2C1)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,py,linux,arch,apple,wordpress,nodejs,&theme=light)](https://skillicons.dev)
