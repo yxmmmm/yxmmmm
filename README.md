@@ -1,42 +1,49 @@
 <p align="center">
 
-  <!-- 🚀 技术栈 -->
-  <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML-略懂-orange?logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-略懂-skyblue?logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white" alt="Go">
-
-  <!-- 💻 系统环境 -->
-  <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/KDE-Plasma-blue?logo=kde&logoColor=white" alt="KDE Plasma">
-
-  <!-- 🏆 竞赛状态 -->
+  <!-- 🎯 技术 & 学术 -->
   <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
+  <img src="https://img.shields.io/badge/算法竞赛-进行中-orange?logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-主力语言-blue?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-副语言-yellow?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-略懂-orange?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-略懂-skyblue?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-略懂-yellow?logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Golang-想学-skyblue?logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch_Linux-rolling-blue?logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/KDE-Plasma-desktop-blue?logo=kde&logoColor=white">
 
-  <!-- 🌐 平台 & 博客 -->
+  <!-- 🧠 阅读 & 兴趣 -->
+  <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
+  <img src="https://img.shields.io/badge/书籍-挪威的森林-20b2aa?logo=bookstack&logoColor=white">
+  <img src="https://img.shields.io/badge/喜欢的台词-個性捨てたら死んでるのと一緒だよ-red?logo=quote&logoColor=white">
+  <img src="https://img.shields.io/badge/性格-INTJ-purple?logo=abstract&logoColor=white">
+  <img src="https://img.shields.io/badge/身份-初中生程序员-brightgreen?logo=github">
+
+  <!-- 🎮 游戏 -->
+  <img src="https://img.shields.io/badge/游戏-死亡搁浅-000000?logo=playstation&logoColor=white">
+  <img src="https://img.shields.io/badge/游戏-FarCry5-darkblue?logo=xbox&logoColor=white">
+  <a href="https://steamcommunity.com/profiles/76561199507472379/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white" alt="Steam 主页">
+  </a>
+
+  <!-- 📢 立场 -->
+  <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox" alt="支持巴勒斯坦">
+  <img src="https://img.shields.io/badge/爱我中华-red?logo=freedombox" alt="爱国">
+  <img src="https://img.shields.io/badge/反俄美霸权主义-red?logo=freedombox" alt="反霸权">
+
+  <!-- 🌐 个人平台 -->
   <a href="https://linmohan.fun">
-    <img src="https://img.shields.io/badge/博客-LinMohan.fun-green?logo=wordpress" alt="博客">
+    <img src="https://img.shields.io/badge/博客-LinMohan.fun-28a745?logo=wordpress&logoColor=white" alt="博客">
   </a>
   <a href="https://www.luogu.com.cn/user/1520652">
-    <img src="https://img.shields.io/badge/洛谷-Luogu-blueviolet?logo=leetcode&logoColor=white" alt="洛谷">
+    <img src="https://img.shields.io/badge/洛谷-Luogu-7e57c2?logo=leetcode&logoColor=white" alt="洛谷主页">
   </a>
   <a href="https://space.bilibili.com/2126856300">
-    <img src="https://img.shields.io/badge/Bilibili-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
+    <img src="https://img.shields.io/badge/B站-林墨瀚-FF69B4?logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
 
-  <!-- 🗯️ 立场表达 -->
-  <img src="https://img.shields.io/badge/支持-巴勒斯坦-darkred?logo=liberapay&logoColor=white" alt="支持巴勒斯坦">
-  <img src="https://img.shields.io/badge/爱我中华-民族自豪-crimson?logo=redhat&logoColor=white" alt="爱国">
-  <img src="https://img.shields.io/badge/反对霸权-反俄美双标-maroon?logo=gnuprivacyguard&logoColor=white" alt="反霸权主义">
-  
-  <!-- 🎯 兴趣 & 性格 -->
-  <img src="https://img.shields.io/badge/喜欢番剧-春物-lightblue?logo=tvtime&logoColor=white" alt="喜欢的番剧">
-  <img src="https://img.shields.io/badge/性格-INTJ-8A2BE2?logo=abstract&logoColor=white" alt="INTJ性格">
-
-
 </p>
+
 
 
 <div align="center">
