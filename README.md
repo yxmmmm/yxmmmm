@@ -1,47 +1,62 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LINMOHANの主页&reversal=false&textBg=false&fontAlignY=44&animation=fadeIn)
+[![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
 
-# 👋 大家好！
+<div align="center">
 
-你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 个访问我的主页的人！
+🎉 欢迎来到我的主页！你是第  
+![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
 
-我是林墨瀚，来自 **山东济南平阴县实验高中初二**，热爱 **编程、算法、历史**，是一名 OIer 和技术博客写作者。
+</div>
 
-![](https://api.xecades.xyz/api?str=CSP-J+%E5%88%9D%E8%B5%9B&date=2025-09-20&quote=%E6%88%91%E6%83%B3%E6%8B%BF+CSP-S+%E7%9C%81%E4%B8%80%EF%BC%81&bilibili=2126856300&github=LINMOH&email=linmhwork%40outlook.com&luogu=1520652&site=linmohan.fun&qq=2113836986&color=255%2C255%2C255%2C1&bg=0%2C0%2C0%2C1)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,py,linux,arch,apple,wordpress,nodejs,&theme=light)](https://skillicons.dev)
+## 🧑‍💻 关于我
+
+大家好！我是 **林墨瀚**，来自 **山东济南平阴县实验高中 初二**。  
+我是一名热爱编程的 OIer，也是一名喜欢写博客的学生。
+
+> 热爱：算法竞赛、网站开发、近现代史  
+> 环境：Arch Linux + KDE  
+> 座右铭：**“我想拿 CSP-S 省一！”**
+
+---
+
+## 🧠 技术栈 & 爱好方向
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,linux,arch,wordpress,nodejs&theme=light)](https://skillicons.dev)
+
+- 主力语言：`C++`、`Python`
+- 兴趣方向：算法设计 / Web 前端 / Linux 运维
+- 正在备战：**CSP-J 2025 初赛**
 
 ---
 
 ## 🌐 我的站点
 
-* [主页](http://home.linmohan.fun/)
-* [导航页](https://map.linmohan.fun/)
-* [博客](https://linmohan.fun/)
-* [洛谷主页](https://www.luogu.com.cn/user/1520652)
+- 🏠 [主页](http://home.linmohan.fun/)
+- 🧭 [导航页](https://map.linmohan.fun/)
+- 📚 [博客](https://linmohan.fun/)
+- 💻 [洛谷主页](https://www.luogu.com.cn/user/1520652)
 
 ---
 
-## 💻 技术方向
+## 📈 成长数据一览
 
-* 主力使用：**C++** **|** 工具脚本： **Python**
-* 爱好：**算法设计 / 网站开发 / 操作系统 / 近现代史**
-* 平时用 **ArchLinux + KDE**，喜欢折腾服务器和 GitHub Pages
+<details>
+<summary>📊 点击展开查看刷题数据与 GitHub 活跃度</summary>
 
----
-
-## 📊 数据与成长
+<br>
 
 <div align="center">
 
-[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652\&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)  
+[![洛谷刷题图](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)  
 
-[![洛谷刷题图](https://api.jerryz.com.cn/practice?id=1520652\&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH\&show_icons=true\&theme=radical\&locale=cn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH\&layout=compact\&theme=radical\&locale=cn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=radical&locale=cn)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH&layout=compact&theme=radical&locale=cn)
 
 </div>
+
+</details>
 
 ---
 
