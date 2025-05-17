@@ -1,4 +1,5 @@
 <div align="center">
+  
   [![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=LINMOHANの主页&fontAlignY=40&animation=fadeIn)](https://linmohan.fun)
 
   # 我是 LINMOHAN
@@ -9,7 +10,7 @@
 
 ---
 
-## 关于我
+## 🧑‍💻 关于我
 
 大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
 我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
@@ -20,7 +21,7 @@
 
 ---
 
-## 技术栈 & 爱好方向
+## 🧠 技术栈 & 爱好方向
 
 <div align="center">
   
