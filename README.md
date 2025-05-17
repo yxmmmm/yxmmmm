@@ -17,7 +17,11 @@
   <p>
     <strong>📖 阅读 & 兴趣</strong><br>
     <img src="https://img.shields.io/badge/性格-INTJ-purple?logo=abstract&logoColor=white" alt="INTJ">
-    <img src="https://img.shields.io/badge/身份-初中生程序员-brightgreen?logo=github" alt="身份">
+    <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
+    <img src="https://img.shields.io/badge/书籍-挪威的森林-20b2aa?logo=bookstack&logoColor=white">
+    <img src="https://img.shields.io/badge/喜欢的台词-個性捨てたら死んでるのと一緒だよ-red?logo=quote&logoColor=white">
+    <img src="https://img.shields.io/badge/性格-INTJ-purple?logo=abstract&logoColor=white">
+    <img src="https://img.shields.io/badge/身份-初中生程序员-brightgreen?logo=github">
   </p>
   
   <!-- 个人立场 -->
