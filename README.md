@@ -14,12 +14,12 @@
 
 ```cpp
 struct 林墨瀚 {
-  std::string 性别 = "男";
-  std::string MBTI = "INTJ";
-  std::vector<std::string> 编程语言 = {"C++", "Python", "HTML", "Markdown"};
-  std::vector<std::string> 兴趣 = {"算法竞赛", "Linux 系统", "2D 游戏开发", "英语播客"};
-  std::string 当前挑战 = "准备 CSP-J 2025，制作教学视频";
-  std::string B站专栏 = "【初中生也能懂】算法入门系列";
+  string 性别 = "男";
+  string MBTI = "INTJ";
+  vector<std::string> 编程语言 = {"C++", "Python", "HTML"};
+  vector<std::string> 兴趣 = {"算法竞赛", "Linux 系统", "英语播客", "日语"};
+  string 当前挑战 = "准备 CSP-J 2025";
+  string 个人博客 = "linmohan.fun";
 };
 ```
 
