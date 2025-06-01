@@ -4,6 +4,8 @@
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
 </a>
 
+你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+
 <p><em>就读于平阴县实验高中的一名八年级学生<br>
 正在学习 C++ 和算法，目标是拿下 <strong>CSP-J 2025</strong> 省一！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
