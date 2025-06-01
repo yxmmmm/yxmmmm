@@ -161,8 +161,8 @@
 
 ## 📮 联系方式
 
-* 📧 Email: `beilingyu65@gmail.com`
-* 🐙 GitHub: [@LINMOH](https://github.com/LINMOH)
+* Email: `beilingyu65@gmail.com`
+* GitHub: [@LINMOH](https://github.com/LINMOH)
 
 <div align="center">
   
