@@ -1,9 +1,9 @@
-<h2>
-  <div align="center">
-    [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=你好，我是林墨瀚！&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
-  </div>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.vercel.app/?lines=你好，我是林墨瀚！&center=true&color=DB7093&size=22&width=500" alt="Typing SVG">
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
+  </h2>
+</div>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
