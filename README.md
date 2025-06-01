@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 关于我
+## 关于我
 
 大家好！我是**林墨瀚**，来自**山东济南平阴县实验高中**， 是**初二**生。  
 我是一名热爱编程的**OIer**，也是一名喜欢**写博客**的学生。
@@ -18,7 +18,7 @@
 <div align="center" style="max-width: 600px; margin: auto;">
   <!-- 技术栈 & 开发环境 -->
   <div style="width: 100%; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
-    🎯 技术栈 & 开发环境
+    技术栈 & 开发环境
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/CSP--J%202025-备战中-blueviolet" alt="CSP-J 2025">
@@ -34,7 +34,7 @@
 
   <!-- 阅读爱好 & 性格 -->
   <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
-    📖 兴趣
+    兴趣
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/书籍-百年孤独-8a2be2?logo=bookstack&logoColor=white">
@@ -52,7 +52,7 @@
 
   <!-- 个人立场 -->
   <div style="width: 100%; margin-top: 20px; margin-bottom: 8px; font-weight: bold; font-size: 1.2em;">
-    🗯️ 个人立场
+    个人立场
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/支持-巴勒斯坦-red?logo=freedombox" alt="支持巴勒斯坦">
@@ -79,7 +79,7 @@
 
 ---
 
-## 🧠 技术栈 & 爱好方向
+## 技术栈 & 爱好方向
 
 <div align="center">
   
