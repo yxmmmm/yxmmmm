@@ -1,4 +1,9 @@
-<h2>你好，我是林墨瀚！<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>
+  <div align="center">
+    [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=你好，我是林墨瀚！&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
+  </div>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
@@ -30,4 +35,8 @@ struct 林墨瀚 {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <em><b>我喜欢独立思考、做有挑战的事。</b><br>如果你也对编程或算法感兴趣，欢迎一起交流！</em>
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
+
+</div>
