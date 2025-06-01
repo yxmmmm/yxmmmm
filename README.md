@@ -83,6 +83,8 @@
 
 <div align="center">
   
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31izql4kas6i2y3xzzgs3r7egsza&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+  
   [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,linux,arch,wordpress,nodejs&theme=light)](https://skillicons.dev)
 
 </div>
