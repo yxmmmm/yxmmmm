@@ -17,8 +17,8 @@
 struct 林墨瀚 {
   string 性别 = "男";
   string MBTI = "INTJ";
-  vector<std::string> 编程语言 = {"C++", "Python", "HTML"};
-  vector<std::string> 兴趣 = {"算法竞赛", "Linux 系统", "英语播客", "日语"};
+  vector<string> 编程语言 = {"C++", "Python", "HTML"};
+  vector<string> 兴趣 = {"算法竞赛", "Linux 系统", "英语播客", "日语"};
   string 当前挑战 = "准备 CSP-J 2025";
   string 个人博客 = "linmohan.fun";
 };
