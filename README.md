@@ -4,7 +4,7 @@
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
 </a>
 
-<p><em>就读于 <a href="https://www.pyxsyzx.cn/">平阴县实验中学</a> 的一名八年级学生<br>
+<p><em>就读于平阴县实验高学的一名八年级学生<br>
 正在学习 C++ 和算法，目标是拿下 <strong>CSP-J 2025</strong> 初赛！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/2126856300)](https://space.bilibili.com/2126856300)  [![Luogu](https://img.shields.io/badge/-Luogu-blue?style=flat-square&logo=codeforces&logoColor=white&link=https://www.luogu.com.cn/user/1520652)](https://www.luogu.com.cn/user/1520652)
