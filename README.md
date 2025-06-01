@@ -5,7 +5,7 @@
 <p><em>就读于 <a href="https://www.pyxsyzx.cn/">平阴县实验中学</a> 的一名八年级学生<br>
 正在学习 C++ 和算法，目标是拿下 <strong>CSP-J 2025</strong> 初赛！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![哔哩哔哩：林墨瀚](https://img.shields.io/badge/-Bilibili-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/你的UID)](https://space.bilibili.com/你的UID)  
+[![哔哩哔哩：林墨瀚](https://img.shields.io/badge/-Bilibili-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/2126856300)](https://space.bilibili.com/2126856300)  
 [![GitHub 林墨瀚](https://img.shields.io/github/followers/linmohan?label=关注我&style=social)](https://github.com/linmohan)
 
 ---
