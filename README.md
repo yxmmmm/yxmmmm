@@ -5,7 +5,7 @@
 </a>
 
 <p><em>就读于平阴县实验高学的一名八年级学生<br>
-正在学习 C++ 和算法，目标是拿下 <strong>CSP-J 2025</strong> 初赛！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+正在学习 C++ 和算法，目标是拿下 <strong>CSP-J 2025</strong> 省一！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/2126856300)](https://space.bilibili.com/2126856300)  [![Luogu](https://img.shields.io/badge/-Luogu-blue?style=flat-square&logo=codeforces&logoColor=white&link=https://www.luogu.com.cn/user/1520652)](https://www.luogu.com.cn/user/1520652) [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561199507472379)](https://steamcommunity.com/profiles/76561199507472379) [![博客](https://img.shields.io/badge/-博客-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://linmohan.fun)](https://linmohan.fun)
 
