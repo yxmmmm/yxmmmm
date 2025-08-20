@@ -32,11 +32,10 @@ struct 林墨瀚 {
 };
 ```
 
-  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
-
-
 ![LINMOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=synthwave)
 
+
+  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <em><b>我喜欢独立思考、做有挑战的事。</b><br>如果你也对编程或算法感兴趣，欢迎一起交流！</em>
