@@ -7,6 +7,7 @@
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINMOH)](https://github.com/LINMOH/github-readme-stats)
 </a>
 
 <p><em>就读于平阴县实验高中的一名九年级学生<br>
@@ -31,9 +32,6 @@ struct 林墨瀚 {
   string 个人博客 = "linmohan.fun";
 };
 ```
-
-![LINMOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINMOH&show_icons=true&theme=synthwave)
-
 
   [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜!;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙣𝙚𝙭𝙩+𝙩𝙞𝙢𝙚+⚡&center=true&color=DB7093&size=22&width=500)](https://git.io/typing-svg)
 
