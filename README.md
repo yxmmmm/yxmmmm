@@ -33,11 +33,15 @@ struct LinMohan {
 };
 ```
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!;See+you+next+time+⚡&center=true&color=DB7093&size=22&width=500&font=Fira+Code)](https://git.io/typing-svg)
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!;See+you+next+time+⚡&center=true&color=DB7093&size=22&width=500&font=Fira+Code" alt="Typing SVG">
+  </h2>
+</div>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I enjoy independent thinking and taking on challenging tasks.</b><br>If you are also interested in programming or algorithms, feel free to connect and share ideas!</em>
+<em><b>I enjoy independent thinking and taking on challenging tasks.</b><br>If you are also interested in Computer Science, feel free to connect and share ideas!</em>
 
 <div align="center">
 
