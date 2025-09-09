@@ -9,8 +9,8 @@
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
 </a>
 
-<p><em>A Grade 9 student at Pingyin County Experimental High School<br>
-Learning C++ and algorithms, aiming to achieve <strong>CSP-J 2025 Provincial First Prize</strong>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>A Grade 9 student at Pingyin County Experimental High School.<br>
+Studying computer systems to  <strong>build an operating system</strong>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 You are visitor number ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg)!
 
@@ -29,7 +29,6 @@ struct LinMohan {
   string school = "Pingyin Experimental Senior High School";
   string team = "TATEN";
   string goal = "Beijing University of Posts and Telecommunications";
-  string currentChallenge = "Studying computer systems to build an operating system";
   string blog = "linmohan.fun";
 };
 ```
