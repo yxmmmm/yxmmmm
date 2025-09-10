@@ -9,12 +9,12 @@
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
 </a>
 
-<p><em>A Grade 9 student at Pingyin County Experimental High School.<br>
-Studying computer systems to  <strong>build an operating system</strong>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>A Grade 9 student at Pingyin Experimental High School.<br>
+Studying computer systems to  <strong>build an operating system</strong> one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-You are ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
+You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
 
-[![bilibili](https://img.shields.io/badge/B站-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300) [![steam](https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199507472379/) [![Blog](https://img.shields.io/badge/博客-linmohan.fun-28a745?logo=hexo)](https://linmohan.fun)
+[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300) [![steam](https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199507472379/) [![Blog](https://img.shields.io/badge/Blog-linmohan.fun-28a745?logo=hexo)](https://linmohan.fun)
 
 
 ---
