@@ -14,7 +14,7 @@ Studying computer systems to  <strong>build an operating system</strong>! <img s
 
 You are ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
 
-[![bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/2126856300)](https://space.bilibili.com/2126856300)  [![Luogu](https://img.shields.io/badge/-Luogu-blue?style=flat-square&logo=codeforces&logoColor=white&link=https://www.luogu.com.cn/user/1520652)](https://www.luogu.com.cn/user/1520652)  [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561199507472379)](https://steamcommunity.com/profiles/76561199507472379)  [![Blog](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://linmohan.fun)](https://linmohan.fun)
+[![bilibili](https://img.shields.io/badge/B站-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300) [![steam](https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199507472379/) [![Blog](https://img.shields.io/badge/博客-linmohan.fun-28a745?logo=hexo)](https://linmohan.fun)
 
 
 ---
