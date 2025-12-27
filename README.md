@@ -28,7 +28,7 @@ struct LinMohan {
   vector<string> code = {"C/C++", "HTML", "CSS"};
   string school = "Pingyin Experimental Senior High School";
   string team = "TATEN";
-  string goal = "Beijing University of Posts and Telecommunications";
+  string goal = "Zhejiang University";
   string blog = "linmohan.fun";
 };
 ```
