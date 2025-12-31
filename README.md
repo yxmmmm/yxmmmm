@@ -14,7 +14,7 @@ Studying computer systems to  <strong>build an operating system</strong> one day
 
 You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
 
-[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300) [![steam](https://img.shields.io/badge/Steam-Forestalin-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199507472379/) [![Blog](https://img.shields.io/badge/Blog-linmohan.fun-28a745?logo=hexo)](https://linmohan.fun)
+[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300)  [![website](https://img.shields.io/badge/Blog-linmohan.fun-28a745?logo=hexo)](https://linmohan.fun)
 
 
 ---
