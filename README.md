@@ -25,10 +25,10 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 struct LinMohan {
   string pronouns = "he/him";
   string MBTI = "INTJ";
-  vector<string> code = {"C/C++", "HTML", "CSS"};
+  vector<string> code = {"C/C++", "HTML", "CSS", "JavaScript", "JAVA", "Golang"};
   string school = "Pingyin Experimental Senior High School";
   string team = "TATEN";
-  string goal = "Zhejiang University";
+  string goal = "Shandong University";
   string blog = "linmohan.fun";
 };
 ```
