@@ -36,8 +36,7 @@ struct LinMohan {
 ```
 
 
-<em>Languages</em>
-<p align="center">
+<em>Languages</em> <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,golang,js,java"
@@ -45,8 +44,7 @@ struct LinMohan {
   </a>
 </p>
 
-<em>Design</em>
-<p align="center">
+<em>Design</em> <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=ps,ai,pr,aftereffects,audition,unrealengine"
