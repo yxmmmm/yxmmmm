@@ -5,9 +5,17 @@
   </h2>
 </div>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300">
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=linmoh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <p><em>A Grade 9 student at Pingyin Experimental High School.<br>
 Studying computer systems to  <strong>build an operating system</strong> one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
@@ -29,7 +37,7 @@ struct LinMohan {
   string school = "Pingyin Experimental Senior High School";
   string team = "TATEN";
   string goal = "Shandong University";
-  string blog = "linmohan.fun";
+  string website = "linmohan.fun";
 };
 ```
 
