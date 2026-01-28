@@ -25,7 +25,6 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ```golang
 var Me = LinMohan{
-	Pronouns: "he/him",
 	MBTI:     "INTJ",
 	Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
 	School:   "Pingyin Experimental High School (Grade 9)",
