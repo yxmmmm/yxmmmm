@@ -5,8 +5,10 @@
   </h2>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=linmoh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=linmoh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<a href="GitHub stats">
+  <img align="right" src="[https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)">
+</a>
 
 <p><em>A Grade 9 student at Pingyin Experimental High School.<br>
 Studying computer systems to  <strong>build an operating system</strong> one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
