@@ -42,8 +42,7 @@ struct LinMohan {
 </div>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I enjoy independent thinking and taking on challenging tasks.</b><br>If you are also interested in Computer Science, feel free to connect and share ideas!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  <em><b>I enjoy independent thinking and taking on challenging tasks.</b><br>If you are also interested in Computer Science, feel free to connect and share ideas!</em>
 
 <div align="center">
 
