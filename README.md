@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/31izql4kas6i2y3xzzgs3r7egsza">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=31izql4kas6i2y3xzzgs3r7egsza&show_icons=true&bg_color=00000000&theme=default" alt="GitHub Stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=linmoh&show_icons=true&bg_color=00000000&theme=default" alt="GitHub Stats">
 </a>
 
 
