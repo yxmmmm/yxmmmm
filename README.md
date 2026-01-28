@@ -27,7 +27,7 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 var Me = LinMohan{
 	MBTI:     "INTJ",
 	Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
-	School:   "Pingyin Experimental High School (Grade 9)",
+	School:   "Pingyin Experimental Senior High School (Grade 9)",
 	Team:     "TATEN",
 	Goal:     "Shandong University",
 	Website:  "linmohan.fun",
