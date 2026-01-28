@@ -6,9 +6,10 @@
 </div>
 
 
-<a href="GitHub stats">
-  <img align="right" src="[https://spotify-github-profile.kittinanx.com/api/view?uid=31izql4kas6i2y3xzzgs3r7egsza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)">
+<a href="https://github.com/31izql4kas6i2y3xzzgs3r7egsza">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=31izql4kas6i2y3xzzgs3r7egsza&show_icons=true&bg_color=00000000&theme=default" alt="GitHub Stats">
 </a>
+
 
 <p><em>A Grade 9 student at Pingyin Experimental High School.<br>
 Studying computer systems to  <strong>build an operating system</strong> one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
