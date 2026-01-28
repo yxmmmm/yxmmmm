@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Lin+Mohan!&center=true&color=DB7093&size=22&width=500&font=Fira+Code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Lin+Mohan!&center=true&color=DB7093&size=22&width=500&font=IBM+Plex+Mono" alt="Typing SVG">
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
   </h2>
 </div>
@@ -36,26 +36,9 @@ struct LinMohan {
 ```
 
 
-<em>Languages</em> <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,golang,js,java"
-    />
-  </a>
-</p>
-
-<em>Design</em> <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=ps,ai,pr,aftereffects,audition,unrealengine"
-    />
-  </a>
-</p>
-
-
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!;See+you+next+time+⚡&center=true&color=DB7093&size=22&width=500&font=Fira+Code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!;See+you+next+time+⚡&center=true&color=DB7093&size=22&width=500&font=IBM+Plex+Mono" alt="Typing SVG">
   </h2>
 </div>
 
