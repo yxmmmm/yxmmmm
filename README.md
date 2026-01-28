@@ -23,16 +23,16 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```cpp
-struct LinMohan {
-  string pronouns = "he/him";
-  string MBTI = "INTJ";
-  vector<string> code = {"C/C++", "HTML", "CSS", "JavaScript", "JAVA", "Golang"};
-  string school = "Pingyin Experimental Senior High School";
-  string team = "TATEN";
-  string goal = "Shandong University";
-  string website = "linmohan.fun";
-};
+```golang
+var Me = LinMohan{
+	Pronouns: "he/him",
+	MBTI:     "INTJ",
+	Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
+	School:   "Pingyin Experimental High School (Grade 9)",
+	Team:     "TATEN",
+	Goal:     "Shandong University",
+	Website:  "linmohan.fun",
+}
 ```
 
 
