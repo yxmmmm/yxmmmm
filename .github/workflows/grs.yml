@@ -19,7 +19,7 @@ jobs:
         with:
           card: stats
           options: >
-            username=${{ github.repository_owner }}
+            username=linmoh
             &show_icons=true
             &count_private=true
             &hide_border=true
@@ -35,7 +35,7 @@ jobs:
         with:
           card: stats
           options: >
-            username=${{ github.repository_owner }}
+            username=linmoh
             &show_icons=true
             &count_private=true
             &hide_border=true
