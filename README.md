@@ -37,16 +37,20 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```golang
+<div align="right">
+  <img src="/tenor.gif" width="120" />
+</div>
+
+<pre><code class="language-go">
 var Me = LinMohan{
-	MBTI:     "INTJ",
-	Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
-	School:   "Pingyin Experimental Senior High School (Grade 9)",
-	Team:     "TATEN",
-	Goal:     "Shandong University",
-	Website:  "linmohan.fun",
+    MBTI:     "INTJ",
+    Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
+    School:   "Pingyin Experimental Senior High School (Grade 9)",
+    Team:     "TATEN",
+    Goal:     "Shandong University",
+    Website:  "linmohan.fun",
 }
-```
+</code></pre>
 
 
 <div align="center">
