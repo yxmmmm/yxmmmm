@@ -6,8 +6,22 @@
 </div>
 
 
-<a href="https://github.com/linmoh">
-  <img align="right" src="./profile/stats.svg" alt="GitHub Stats">
+<a href="https://github.com/linmoh" align="right">
+  <picture>
+    <source
+      srcset="./profile/stats-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="./profile/stats-light.svg"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="./profile/stats-light.svg"
+      alt="GitHub Stats"
+      align="right"
+    />
+  </picture>
 </a>
 
 
