@@ -37,22 +37,19 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<div align="right" style="margin-bottom:20px;">
-  <img src="img/tenor.gif" width="250" />
-</div>
-
-<div align="left">
-<pre><code class="language-go">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycmZ0enR4Yndid3M2ZzZicXpueGZ3bmRycmZ0enR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S0MshshfT7YAnvY5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycmZ0enR4Yndid3M2ZzZicXpueGZ3bmRycmZ0enR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S0MshshfT7YAnvY5/giphy.gif)" align="right" width="200" />
+```golang
 var Me = LinMohan{
-    MBTI:     "INTJ",
-    Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
-    School:   "Pingyin Experimental Senior High School (Grade 9)",
-    Team:     "TATEN",
-    Goal:     "Shandong University",
-    Website:  "linmohan.fun",
+    MBTI:    "INTJ",
+    Code:    []string{"C/C++", "Golang", "Java"},
+    School:  "Pingyin Experimental Senior High School",
+    Team:    "TATEN",
+    Goal:    "Shandong University",
+    Website: "linmohan.fun",
 }
-</code></pre>
-</div>
+```
+
+<br clear="right"/>
 
 
 
