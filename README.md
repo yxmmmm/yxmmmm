@@ -41,6 +41,7 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
   <img src="img/tenor.gif" width="250" />
 </div>
 
+<div align="left">
 <pre><code class="language-go">
 var Me = LinMohan{
     MBTI:     "INTJ",
@@ -51,6 +52,8 @@ var Me = LinMohan{
     Website:  "linmohan.fun",
 }
 </code></pre>
+</div>
+
 
 
 <div align="center">
