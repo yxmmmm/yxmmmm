@@ -37,26 +37,26 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<div align="center">
-  <img src="img/tenor.gif" width=250px align="right" />
-  
-  <div align="left">
-    <pre>
-<code style="color: #DB7093;">var</code> Me = LinMohan{
-    MBTI:    <span style="color: #28a745;">"INTJ"</span>,
-    Code:    []string{<span style="color: #28a745;">"C/C++"</span>, <span style="color: #28a745;">"Golang"</span>, <span style="color: #28a745;">"Java"</span>},
-    School:  <span style="color: #28a745;">"Pingyin Experimental Senior High School"</span>,
-    Team:    <span style="color: #28a745;">"TATEN"</span>,
-    Goal:    <span style="color: #28a745;">"Shandong University"</span>,
-    Website: <span style="color: #28a745;">"linmohan.fun"</span>,
+<table border="0">
+  <tr>
+    <td width="75%">
+      ```go
+var Me = LinMohan{
+    MBTI:    "INTJ",
+    Code:    []string{"C/C++", "Golang", "Java"},
+    School:  "Pingyin Experimental Senior High School",
+    Team:    "TATEN",
+    Goal:    "Shandong University",
+    Website: "linmohan.fun",
 }
-    </pre>
-  </div>
-  <br clear="right" />
-</div>
 
+</td>
+<td width="25%" valign="top">
+  <img src="img/tenor.gif" width="100%">
+</td>
 
-
+</tr>
+</table>
 
 
 <div align="center">
