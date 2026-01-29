@@ -38,7 +38,7 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycmZ0enR4Yndid3M2ZzZicXpueGZ3bmRycmZ0enR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S0MshshfT7YAnvY5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycmZ0enR4Yndid3M2ZzZicXpueGZ3bmRycmZ0enR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S0MshshfT7YAnvY5/giphy.gif)" width="22%" align="right" />
+  <img src="img/tenor.gif" width="22%" align="right" />
   
   <div align="left">
     <pre>
