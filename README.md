@@ -37,12 +37,12 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<div align="right">
-  <img src="img/tenor.gif" width="250" />
-</div>
+<div align="center">
 
-<div align="left">
-<pre><code class="language-go">
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 16px; max-width: 900px; margin: 0 auto;">
+
+    <!-- Go 代码块 -->
+    <pre style="margin: 0; flex: 1;">
 var Me = LinMohan{
     MBTI:     "INTJ",
     Code:     []string{"C/C++", "Golang", "Java", "JavaScript", "HTML/CSS"},
@@ -51,8 +51,17 @@ var Me = LinMohan{
     Goal:     "Shandong University",
     Website:  "linmohan.fun",
 }
-</code></pre>
+    </pre>
+
+    <!-- 右侧 GIF -->
+    <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
+      <img src="/tenor.gif" style="max-width: 100%; max-height: 100%;" />
+    </div>
+
+  </div>
+
 </div>
+
 
 
 
