@@ -1,4 +1,4 @@
-<img src="img/anna.webp" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+<img src="img/anna.webp" style="border-radius: 20px;" />
 <div align="center">
   <h1>
     Hi there, I'm 𝕃𝕚𝕟 𝕄𝕠𝕙𝕒𝕟
