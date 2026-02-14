@@ -5,6 +5,8 @@
     </clipPath>
   </defs>
   <image href="img/anna.webp" width="200" height="200" clip-path="url(#round-corner)" />
+</svg>
+
 </svg><div align="center">
   <h1>
     Hi there, I'm 𝕃𝕚𝕟 𝕄𝕠𝕙𝕒𝕟
