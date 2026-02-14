@@ -25,7 +25,7 @@
 </a>
 
 
-<p style="font-size: 1.5rem;">
+<p style="font-size: 2rem;">
   <em>
   𝑨 𝑮𝒓𝒂𝒅𝒆 𝟗 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑷𝒊𝒏𝒈𝒚𝒊𝒏 𝑬𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒂𝒍 𝑯𝒊𝒈𝒉 𝑺𝒄𝒉𝒐𝒐𝒍.<br>
   𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅 𝒂𝒏 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦 𝒐𝒏𝒆 𝒅𝒂𝒚!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
