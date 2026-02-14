@@ -26,8 +26,8 @@
 
 
 <p style="font-size: 2rem;">
-  𝑨 𝑮𝒓𝒂𝒅𝒆 𝟗 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑷𝒊𝒏𝒈𝒚𝒊𝒏 𝑬𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒂𝒍 𝑯𝒊𝒈𝒉 𝑺𝒄𝒉𝒐𝒐𝒍.<br>
-  𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅 𝒂𝒏 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦 𝒐𝒏𝒆 𝒅𝒂𝒚!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  A Grade 9 student at Pingyin Experimental High School.<br>
+  Studying computer systems to build an operating system one day!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;">
 </p>
 
 You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
