@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Lin+Mohan!&center=true&color=DB7093&size=22&width=500&font=IBM+Plex+Mono" alt="Typing SVG">
+  <h1>
+    Hi there, I'm 𝕃𝕚𝕟 𝕄𝕠𝕙𝕒𝕟
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
-  </h2>
+  </h1>
 </div>
 
 
