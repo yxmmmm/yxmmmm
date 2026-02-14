@@ -55,9 +55,9 @@ var Me = LinMohan{
 
 
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!;See+you+next+time+⚡&center=true&color=DB7093&size=22&width=500&font=IBM+Plex+Mono" alt="Typing SVG">
-  </h2>
+  <h1>
+    𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!
+  </h1>
 </div>
 
 
