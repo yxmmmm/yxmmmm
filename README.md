@@ -1,4 +1,4 @@
-<img src="img/anna_rounded.webp" width="100%" />
+<img src="img/img_final.avif" width="100%" />
 
 </svg><div align="center">
   <h1>
