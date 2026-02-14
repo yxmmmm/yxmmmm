@@ -1,5 +1,11 @@
-<img src="img/anna.webp" style="border-radius: 20px;" />
-<div align="center">
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="round-corner">
+      <rect x="0" y="0" width="200" height="200" rx="40" ry="40" />
+    </clipPath>
+  </defs>
+  <image href="img/anna.webp" width="200" height="200" clip-path="url(#round-corner)" />
+</svg><div align="center">
   <h1>
     Hi there, I'm 𝕃𝕚𝕟 𝕄𝕠𝕙𝕒𝕟
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
