@@ -32,7 +32,7 @@
 
 You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
 
-[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300)  [![website](https://img.shields.io/badge/Website-linmohan.fun-28a745?logo=vue.js)](https://linmohan.fun)
+[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300)  [![website](https://img.shields.io/badge/Website-linmohan.net-28a745?logo=vue.js)](https://linmohan.net)
 
 
 
