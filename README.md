@@ -1,11 +1,4 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="round-corner">
-      <rect x="0" y="0" width="200" height="200" rx="40" ry="40" />
-    </clipPath>
-  </defs>
-  <image href="img/anna.webp" width="200" height="200" clip-path="url(#round-corner)" />
-</svg>
+<img src="img/anna_rounded.webp" width="100%" />
 
 </svg><div align="center">
   <h1>
