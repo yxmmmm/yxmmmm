@@ -2,7 +2,7 @@
 
 </svg><div align="center">
   <h1>
-    Hi there, I'm 𝕃𝕚𝕟 𝕄𝕠𝕙𝕒𝕟
+    Hi there, I'm 𝔹𝕔𝕒𝕞𝕪
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
   </h1>
 </div>
@@ -43,7 +43,7 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 <img src="img/anna.gif" align="right" width="20%" style="margin-left: 20px; margin-bottom: 20px;" />
 
 ```golang
-var Me = LinMohan{
+var Me = Bcamy{
     MBTI:    "INTJ",
     Code:    []string{"C/C++", "Golang", "Java"},
     School:  "Pingyin Experimental Senior High School",
