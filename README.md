@@ -29,7 +29,7 @@
 
 <div align="left">
   <h4>
-    A Grade 9 student at Pingyin Experimental High School.<br>
+    A Grade 9 student at Pingyin Experimental Senior High School.<br>
     Studying computer systems to build an operating system one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h4>
 </div>
