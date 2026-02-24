@@ -1,14 +1,14 @@
-<img src="img/anna.avif" width="100%" />
+<img src="img/八千代.jpeg" width="100%" />
 
 </svg><div align="center">
   <h1>
-    Hi there, I'm 𝔹𝕔𝕒𝕞𝕪
+    Hi there, I'm ᙭IᗩOᗰᗩO
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="GIF">
   </h1>
 </div>
 
 
-<a href="https://github.com/linmoh" align="right">
+<a href="https://github.com/yxmmmm" align="right">
   <picture>
     <source
       srcset="./profile/stats-dark.svg"
@@ -29,29 +29,26 @@
 
 <div align="left">
   <h4>
-    A Grade 9 student at Pingyin Experimental Senior High School.<br>
+    A student at Nanjing Forestry University.<br>
     Studying computer systems to build an operating system one day! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h4>
 </div>
 
-You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)!
-
-[![bilibili](https://img.shields.io/badge/Bilibili-2126856300-FF69B4?logo=bilibili)](https://space.bilibili.com/2126856300)  [![website](https://img.shields.io/badge/Website-linmohan.net-28a745?logo=vue.js)](https://linmohan.net)
+You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yxmmmm.yxmmmm)!
+ My personal website: [![website](https://img.shields.io/badge/Website-xiaomaoyang.top-28a745?logo=vue.js)](https://xiaomaoyang.top)
 
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝑨 𝒍𝒊𝒕𝒕𝒍𝒆 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆…
 
-<img src="img/anna.gif" align="right" width="20%" style="margin-left: 20px; margin-bottom: 20px;" />
+<img src="img/maomao.gif" align="right" width="30%" style="margin-left: 20px; margin-bottom: 20px;" />
 
 ```golang
-var Me = Bcamy{
-    MBTI:    "INTJ",
-    Code:    []string{"C/C++", "Golang", "Java", "Rust"},
-    School:  "Pingyin Experimental Senior High School",
-    Team:    "TATEN",
-    Goal:    "Shandong University",
-    Website: "linmohan.fun",
+var Me = xiaomao{
+    MBTI:    "ENTP",
+    Code:    []string{"C/C++"},
+    School:  "Nanjing Forestry University",
+    Website: "xiaomaoyang.top",
 }
 ```
 

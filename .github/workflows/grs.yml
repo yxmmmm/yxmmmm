@@ -14,19 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
   
-      - name: Generate stats card (dark)
+      - name: 生成深色统计卡片
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=linmoh&show_icons=true&count_private=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff
+          # 已修改为你的用户名 yxmmmm
+          options: username=yxmmmm&show_icons=true&count_private=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff
           path: profile/stats-dark.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: Generate stats card (light)
+      - name: 生成浅色统计卡片
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=linmoh&show_icons=true&count_private=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da
+          # 已修改为你的用户名 yxmmmm
+          options: username=yxmmmm&show_icons=true&count_private=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da
           path: profile/stats-light.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
           
