@@ -1,4 +1,4 @@
-<img src="img/八千代.jpeg" width="100%" />
+<img src="img/八千代.png" width="100%" />
 
 </svg><div align="center">
   <h1>
@@ -35,6 +35,7 @@
 </div>
 
 You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yxmmmm.yxmmmm)!
+
  My personal website: [![website](https://img.shields.io/badge/Website-xiaomaoyang.top-28a745?logo=vue.js)](https://xiaomaoyang.top)
 
 
